@@ -62,7 +62,7 @@ form input.operator{
     }
 }
 /* mobile responsive */
-@media (max-width:416px) {
+@media (max-width:500px) {
     .calculator {
         height: auto;
         width: 100%;
